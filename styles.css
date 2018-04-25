@@ -1,0 +1,35 @@
+.m-top-75 {
+  margin-top: 75px;
+}
+
+h1 {
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 28px;
+	text-align: center}
+
+	.jumbotron {
+	background-image: url("images4DPJH8IC.jpg");
+	background-size: 100% 100%;
+	width: 100%;
+	height: 100%;
+	padding:25px;
+	text-align: center;
+	}
+	
+	
+	.form-control{
+	color: white;
+	background-color: darkgreen;
+	}
+	
+	.form-control:hover{
+	color: black;
+	background-color: white;
+	}
+	
+	
+	.info{
+	color: black;
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-weight: bold;
+	}
